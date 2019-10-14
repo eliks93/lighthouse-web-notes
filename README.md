@@ -2,4 +2,5 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Eli for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Eli](https://github.com/eliks93) for the [Lighthouse Labs](Uhttps://www.lighthouselabs.ca/RL) Web Development Bootcamp.
+
